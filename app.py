@@ -194,7 +194,7 @@ if st.session_state["opened"]:
             ">
                 <h3 style="color: #B83D4B;">For my favourite people ♡</h3>
                 <p style="color: #25212B;">
-                    THe way we met was random, yet you two
+                    The way we met was random, yet you two
                     managed to an unfamiliar place feel a little more like home for me.
                 </p>
                 <p style="color: #25212B;">
